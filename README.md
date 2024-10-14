@@ -1,2 +1,2 @@
 # Interactive Figures of Misinformation Project
-![Figure_Signal_Informativeness_Parameters (1).html](Figure_Signal_Informativeness_Parameters (1).html)
+[Signal Informativeness Figure](./Figure_Signal_Informativeness_Parameters%20(1).html)
