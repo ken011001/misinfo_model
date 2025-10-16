@@ -2,7 +2,7 @@
 ## Figures for Main Result
 [Structural Parameters Figure](./Figure_Structural_Parameters_main.html)
 
-[Structural Informativeness Parameter Figure](./Figure_Signal_Informativeness_Parameters_main.html)
+[Structural Informativeness Parameter Figure](https://ken011001.github.io/misinfo_model/Figure_Signal_Informativeness_Parameters_main.html)
 
 
 ## Figures for Robustness Checks
